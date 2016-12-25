@@ -1,9 +1,12 @@
 yarn.vim
 =======
 
-YARN.vim is a Vim plugin to manage and work with Node Package Manager (Yarn) easily.
+Working and using Yarn in Vim editor. 
+yarn.vim is a Vim plugin to manage and work with Yarn easily. 
 
-##Installing
+[![asciicast](https://asciinema.org/a/97258.png)](https://asciinema.org/a/97258)
+
+## Installing
 
 Just clone (or download) repository into `~/.vim/bundle` folder:
 
@@ -12,7 +15,7 @@ Just clone (or download) repository into `~/.vim/bundle` folder:
 
 and then open `~/.vimrc` file and append this line in the file:
 
-    Bundle 'yarn.vim'
+    Plug 'trkw/yarn.vim'
 
 Then reload the Vim. type `:h yarn` for more detail.
 
