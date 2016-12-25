@@ -1,0 +1,6 @@
+*yarn.txt*  Yarn for Vim
+
+Author:  Naohiro Terakawa <trkw@trkw.me>         *yarn-author*
+License: MIT
+
+INTRODUCTION                                    *yarn*
